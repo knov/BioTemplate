@@ -1,1 +1,3 @@
-Hello World
+Hey, Kristen!
+
+Thanks for teaching a git class.
